@@ -1,5 +1,4 @@
-### Hey this is Raisul Islam Hridoy 👋
-
+Passionate and deadline orientated programmer, fast learner, team player, ambitious, enthusiastic, and capable of providing results under pressure. Strong engineering professional graduated from Bangladesh University of Business & Technology (BUBT). Very passionate about web standards and loves to write semantically correct code. I love listening nasheed, traveling, doing videography. 
 <!--
 **hridoyraisul/hridoyraisul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
