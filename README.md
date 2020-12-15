@@ -4,10 +4,10 @@
 
 Activity log:
 
-=> Integrating user-facing elements developed by front -end developers
-=> Building efficient, testable, and reusable PHP modules
-=> Solving complex performance problems and architectural challenges
-=> Integrating of data storage solutions databases, key-value stores, blob stores, etc.
+- Integrating user-facing elements developed by front-end developers
+- Building efficient, testable, and reusable PHP modules
+- Solving complex performance problems and architectural challenges
+- Integrating of data storage solutions databases, key-value stores, blob stores, etc.
 
 Skills:
 - Laravel
