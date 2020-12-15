@@ -2,14 +2,14 @@
 <!--
 **hridoyraisul/hridoyraisul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-##Activity log:
+## Activity log:
 
 - Integrating user-facing elements developed by front-end developers
 - Building efficient, testable, and reusable PHP modules
 - Solving complex performance problems and architectural challenges
 - Integrating of data storage solutions databases, key-value stores, blob stores, etc.
 
-##Skills:
+## Skills:
 - Laravel
 - PHP
 - JavaScript
