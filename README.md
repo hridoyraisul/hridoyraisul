@@ -2,7 +2,7 @@
 <!--
 **hridoyraisul/hridoyraisul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-## Activity log:
+## Services:
 
 - Integrating user-facing elements developed by front-end developers
 - Building efficient, testable, and reusable PHP modules
