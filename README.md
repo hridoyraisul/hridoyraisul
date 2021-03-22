@@ -10,12 +10,13 @@
 - Integrating of data storage solutions databases, key-value stores, blob stores, etc.
 
 ## Skills:
-- Laravel
-- PHP
-- JavaScript
-- HTML5
-- CSS
-- Dart
+- Web Application Development
+- Restful API Development
 - Video Editing (Premier Pro)
-- Basic Android (with Java)
+- Mobile Application Development
 
+## Programming Languages:
+- PHP
+- Python
+- JavaScript
+- Dart
