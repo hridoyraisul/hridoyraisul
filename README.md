@@ -12,7 +12,8 @@
 ## Skills:
 - Web Application Development
 - Restful API Development
-- Video Editing (Premier Pro)
+- Database Management System
+- Video Editing
 - Mobile Application Development
 
 ## Programming Languages:
