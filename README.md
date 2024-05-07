@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, It's me Raisul Hridoy</h1>
+<h1 align="center">Hey 👋, It's me Raisul Hridoy</h1>
 <h3 align="center">Software Engineer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hridoyraisul&label=Profile%20views&color=0e75b6&style=flat" alt="hridoyraisul" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hridoyraisul" alt="hridoyraisul" /></a> </p>
-
-- 🌱 I’m currently learning **NodeJs**
 
 - 💬 Ask me about **PHP, Laravel, MySql, VueJs**
 
@@ -15,11 +13,8 @@
 <p align="left">
 <a href="https://twitter.com/raisulhridoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yeamin_hossain" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/raisulhridoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamyeamin" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/raisulhridoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11021602" height="30" width="40" /></a>
 <a href="https://fb.com/exheartz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imyeamin" height="30" width="40" /></a>
 <a href="https://instagram.com/raisulhridoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hridoyraisul" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/raisulhridoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yeamin_raat" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/raisulhridoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yeamin_raat" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
