@@ -15,7 +15,7 @@
 
 ### Tech Stack
 
-🛠️ **Backend Development:** Proficient in PHP (Laravel), ensuring scalable and high-performance applications. 🛠️  
+🛠️ **Backend Development:** Proficient in PHP (Laravel), ensuring scalable and high-performance applications.
 🎨 **Frontend Development:** Skilled in Vue.js, JavaScript, HTML, CSS, and Tailwind CSS to build modern and responsive user interfaces.  
 🗄️ **Database Management:** Experienced in MySQL and PostgreSQL for optimized data handling.  
 ☁️ **DevOps & Hosting:** Familiar with AWS (EC2, S3), Nginx, and Redis for efficient deployment and performance tuning.  
