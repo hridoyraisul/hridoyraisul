@@ -10,23 +10,15 @@
 ---
 
 
-### 🚀 About Me
-
-- 💻 Full-stack developer with 4+ years of experience  
-- ⚙️ Specializing in **Laravel**, **Vue.js**, **MySQL**, **PostgreSQL**, **REST APIs**, and **WebSocket** (Socket.IO, Pusher)  
-- 📦 Skilled in **Docker**, **Redis**, **RabbitMQ**, **Linux** (Ubuntu, Debian), **Nginx**, **Apache**, and scalable web architecture  
-- ☁️ Experienced with **VPS**, **AWS (EC2, S3)**, **Linode**, **cPanel**, and **CI/CD** (GitHub Actions, Jenkins)  
-- 📫 Reach me at: **raisulhridoyy@gmail.com**
-
----
-
 ### 🛠️ Tech Stack
 
-**Backend:** Laravel · PHP · MySQL · PostgreSQL · Redis · RabbitMQ · WebSocket (Socket.IO, Pusher)  
-**Frontend:** Vue.js · Pinia · Tailwind CSS · Bootstrap · HTML5 · CSS3  
-**DevOps:** Linux · Nginx · VPS · AWS · Linode . Docker · cPanel · CI/CD (GitHub Actions, Jenkins)  
-**Version Control:** Git (GitHub, GitLab, Bitbucket)  
-**Project Management:** Jira · Trello  
-**Tools:** Postman · VS Code  
+- ✅ **Backend Development:** Proficient in PHP (Laravel), ensuring scalable and high-performance applications. 🛠️  
+- 🎨 **Frontend Development:** Skilled in Vue.js, JavaScript, HTML, CSS, and Tailwind CSS to build modern and responsive user interfaces.  
+- 🗄️ **Database Management:** Experienced in MySQL and PostgreSQL for optimized data handling.  
+- ☁️ **DevOps & Hosting:** Familiar with AWS (EC2, S3), Nginx, and Redis for efficient deployment and performance tuning.  
+- 🔄 **Real-time Communication:** Proficient in WebSocket technologies like Socket.IO and Pusher for interactive applications.  
+- ⚡ **Message Queues & Caching:** Experienced with Redis and RabbitMQ for high-performance event-driven architectures.  
+- 📋 **Project Management Tools:** Skilled in using Jira and Trello for agile workflow management and team collaboration.  
+
 
 ---
