@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/raisulhridoy"><img src="https://img.shields.io/badge/LinkedIn-raisulhridoy-blue?logo=linkedin" /></a>
   <a href="mailto:raisulhridoy@hotmail.com"><img src="https://img.shields.io/badge/Email-raisulhridoy@hotmail.com-red?logo=gmail" /></a>
-  <a href="https://raisulhridoy.devgenus.com"><img src="https://img.shields.io/badge/Website-1DA1F2?logo=globe" /></a>
+   <a href="https://raisulhridoy.devgenus.com"><img src="https://img.shields.io/badge/Website-raisulhridoy.devgenus.com-blue?logo=globe" /></a>
 </p>
 
 ---
